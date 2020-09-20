@@ -3,5 +3,5 @@ Nama    : Kefilino Khalifa Filardi
 NPM     : 140810180028  
 Kelas   : A  
   
-**Screenshot Program**  
-![Screenshot Affine Cipher](https://cdn.discordapp.com/attachments/733341377924169739/757253297630478476/ss.jpg)
+**Program Shift Cipher**  
+![Screenshot Shift Cipher](https://cdn.discordapp.com/attachments/733341377924169739/757260056038342727/Screenshot_2020-09-20_221447.jpg)
